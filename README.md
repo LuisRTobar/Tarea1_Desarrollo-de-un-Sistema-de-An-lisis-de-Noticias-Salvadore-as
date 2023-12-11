@@ -1,4 +1,4 @@
-# Tarea1_Desarrollo-de-un-Sistema-de-Anlisis-de-Noticias-Salvadorenas
+# Tarea1_Desarrollo-de-un-Sistema-de-Analisis-de-Noticias-Salvadorenas
 
  ____                            _          _____ _             _ 
 |  _ \ _ __ ___  _   _  ___  ___| |_ ___   |  ___(_)_ __   __ _| |
