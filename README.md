@@ -45,8 +45,6 @@ Se desarrollo un programa para extracción de noticias del periódico digital "�
 
 Se extrajeron los datos del archivo "Noticias Ultima Hora.csv", ordenándolos por categoría y fecha.
 
-NOTA: Por limitante de tiempo, quedó pendiente el análisis exploratorio de datos (EDA) y  la visualización de patrones y tendencias. Esperamos subirlos la próxima semana.
-
 ARCHIVO CODIGO PYTHON-JUPITER:
 WEB_Scraping_Diariodigital_Ultima_Hora.ipynb
 
